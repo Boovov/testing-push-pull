@@ -2,4 +2,4 @@
 deployment:
  tasks:
  - export DEPLOYPATH=/home/cpfam/public_html/
- - /bin/cp readme.md $DEPLOYPATH
+ - /bin/cp README.md $DEPLOYPATH
